@@ -17,4 +17,4 @@ def sub():
 
 
 if __name__ == "__main__":
-    sub()
+    Process(target=sub, args=()).start()
