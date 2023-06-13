@@ -1,5 +1,5 @@
 # Redis & Python
-*Notes & highlights from https://realpython.com/python-redis/#using-redis-py-redis-in-python*
+*Notes & highlights from https://realpython.com/python-redis/*
 
 ### What is Redis?
 Redis is an extremely fast, in-memory, key-value datastore that can be implemented as a caching system, a message queue, or a full on database.
